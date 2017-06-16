@@ -1,8 +1,3 @@
---- step ---
----
-title: Sense HAT: pitch, roll and yaw readings
----
-
 - In a Python file, enter the following code:
 
     ```python
@@ -24,5 +19,3 @@ title: Sense HAT: pitch, roll and yaw readings
     ```bash
     pitch 356.35723002363454 roll 303.4986602798494 yaw 339.19880231669873
     ```
-
---- /step ---
