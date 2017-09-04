@@ -1,0 +1,13 @@
+title: Detecting pitch, roll, and yaw with the Sense HAT
+hero_image: images/banner.png
+description: Find out how to use the Sense HAT to read pitch, roll, and yaw
+original_url:
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+ingredient: true
+listed: false
+copyedit: false
+interests:
+technologies: "python, sense hat"
+steps:
+  - title: Sensing pitch, roll, and yaw
