@@ -1,4 +1,6 @@
-- In a Python file, enter the following code:
+The Sense HAT has orientation sensors which detect pitch, roll, and yaw. Do the following to access these data.
+
+- In a Python file, enter this code:
 
     ```python
     from sense_hat import SenseHat
