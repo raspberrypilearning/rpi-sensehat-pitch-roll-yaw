@@ -1,0 +1,4 @@
+name: "Sense HAT pitch, roll and yaw"
+identifier: "rpi-sensehat-pitch-roll-yaw-example"
+type: 'python'
+build: true
